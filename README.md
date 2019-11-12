@@ -1,1 +1,3 @@
 # Credit_Card-Data-Predicting-Credit-card-approval
+Commercial banks receive a lot of applications for credit cards. Many of them get rejected for many reasons, like high loan balances, low income levels, or too many inquiries on an individual's credit report, for example. Manually analyzing these applications is mundane, error-prone, and time-consuming (and time is money!). However, here we haveused the data set to build a model which can shortlist the candidates for approval that can be great.
+In the given data set we have a total of 690 observations. These are 690 applications from past for credit card request. For each candidate (observation) we have 16 variables in total.
